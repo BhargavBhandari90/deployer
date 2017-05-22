@@ -89,7 +89,7 @@ sed 's/==/##/g' /tmp/file2 &> /tmp/file1
 # Replave = to #### From Description To The End Of File
 # Commenting below like which is replacing all = signs to # which
 # ends up replacing the = signs from the link URLS
-# Related issue : https://github.com/rtMediaWP/rtMedia/issues/824
+# Related issue : https://github.com/BhargavBhandari90/multi-blog-slider/issues
 # sed '/Description/,$s/=/####/g' /tmp/file1 &> /tmp/file2
 
 # Replace = to #### From Description To The End Of File
